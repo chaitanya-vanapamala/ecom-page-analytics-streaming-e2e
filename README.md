@@ -54,8 +54,8 @@ These instructions will get a copy of the project up and running on your local m
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
-    cd <your-repo-folder>
+    git clone https://github.com/chaitanya-vanapamala/ecom-page-analytics-streaming-e2e
+    cd ecom-page-analytics-streaming-e2e
     ```
 
 2.  **Start the pipeline:**
