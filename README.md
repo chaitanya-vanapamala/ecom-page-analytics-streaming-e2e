@@ -1,4 +1,4 @@
-# 📊 Ecommerce Page View Streaming Analytics Pipeline
+# 📊 Ecommerce Page View Streaming Data Pipeline - End to End
 
 This project implements an end-to-end streaming analytics pipeline to capture, process, and visualize web page view events in real-time. The architecture utilizes **Docker** and **Docker Compose** to orchestrate several key technologies, including **Kafka**, **Spark Streaming**, **PostgreSQL**, and **Grafana**.
 
